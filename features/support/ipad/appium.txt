@@ -1,0 +1,6 @@
+[caps]
+platformName = "ios"
+deviceName = "iPad Air"
+platformVersion = "10.2"
+app = "./app/URLer.app"
+fullReset = "true"

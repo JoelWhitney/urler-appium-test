@@ -1,0 +1,6 @@
+[caps]
+platformName = "ios"
+deviceName = "iPhone 6"
+platformVersion = "10.2"
+app = "./app/URLer.ipa"
+automationName = "XCUITest"

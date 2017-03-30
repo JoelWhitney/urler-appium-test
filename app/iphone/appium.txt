@@ -1,0 +1,6 @@
+[caps]
+platformName = "ios"
+deviceName = "iPhone 7"
+platformVersion = "10.2"
+app = "../URLer.app"
+automationName = "XCUITest"
